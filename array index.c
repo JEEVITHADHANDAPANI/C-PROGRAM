@@ -5,7 +5,7 @@ void main()
   printf("Enter the no of element:");
   scanf("%d",&n);
   printf("Elements are:");
-  for(int i=0;i<=n;i++)
+  for(int i=0;i<n;i++)
   {
     scanf("%d",&a[i]);
   }
