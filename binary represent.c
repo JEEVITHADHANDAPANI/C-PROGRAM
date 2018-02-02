@@ -15,11 +15,11 @@ int main()
   }
    if(count==l)
    {
-    printf("Binary representation");
+    printf("YES");
    }
    else
    {
-     printf("Not a binary representation");
+     printf("No");
    }
   return 0;
 }
